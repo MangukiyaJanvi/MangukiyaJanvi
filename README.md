@@ -8,9 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangukiyajanvi&label=Profile%20views&color=0e75b6&style=flat" alt="mangukiyajanvi" /> </p>
 
-- 🌱 I’m currently learning **Figma,PHP**
 
-- 💬 I have 1 year of experience in Flutter. Feel free to ask me anything!
+💬 I have **1 year of experience in Flutter**, where I've developed several mobile applications. I enjoy building responsive and user-friendly interfaces.
+
+🌟 My projects showcase my skills in state management and API integration.
+
+💻 I'm passionate about creating seamless user experiences and exploring new technologies.
+
+🚀 I’m eager to expand my skill set by diving into **native Android development** to deepen my understanding of mobile app architecture and performance optimization.
+
+🤝 Feel free to reach out if you have questions about Flutter or if you want to collaborate on a project!
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFnpXXbRwA/dScncraSWLRmqie2Yq_eBQ/edit?utm_content=DAFnpXXbRwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFnpXXbRwA/dScncraSWLRmqie2Yq_eBQ/edit?utm_content=DAFnpXXbRwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
