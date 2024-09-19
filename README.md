@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Figma,PHP**
 
-- 💬 Ask me about **Flutter**
+- 💬 I have 1 year of experience in Flutter. Feel free to ask me anything!
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFnpXXbRwA/dScncraSWLRmqie2Yq_eBQ/edit?utm_content=DAFnpXXbRwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFnpXXbRwA/dScncraSWLRmqie2Yq_eBQ/edit?utm_content=DAFnpXXbRwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
